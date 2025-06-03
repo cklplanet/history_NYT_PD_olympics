@@ -1,4 +1,6 @@
 ### Files:
+Nationalist Rhetoric analysis: statistic_analysis folder
+
 Framing analysis: framing_analysis.ipynb
 
 Regression analysis: regression.ipynb
